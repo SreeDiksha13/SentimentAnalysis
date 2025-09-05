@@ -22,5 +22,17 @@ A simple web application that analyzes the sentiment of text using a machine lea
 
 ---
 
-## Project Structure
 
+## Demo
+
+### Start Screen
+![Start Screen](./assets/start.png)
+
+### Entering Text
+![Test Input](./assets/test1.png)
+
+### Positive Sentiment
+![Positive Sentiment](./assets/pos.png)
+
+### Negative Sentiment
+![Negative Sentiment](./assets/neg.png)
